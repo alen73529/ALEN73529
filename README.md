@@ -4,3 +4,4 @@ ALEN73529
 產業
 git config --global -1
 
+add on master 
